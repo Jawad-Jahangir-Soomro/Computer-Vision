@@ -1,0 +1,48 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ComputerVision:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ComputerVision_jar</output-path>
+    <root id="archive" name="ComputerVision.jar">
+      <element id="module-output" name="ComputerVision" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/jai-imageio-core-1.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/jboss-vfs-3.2.12.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/jbig2-imageio-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ffmpeg-5.0-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/fontbox-2.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/log4j-over-slf4j-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../freetts/freetts-1.2/lib/cmu_us_kal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/jul-to-slf4j-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../freetts/freetts-1.2/lib/mbrola.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../freetts/freetts-1.2/lib/freetts.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/jna-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../opencv/build/java/opencv-460.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/dist/tess4j-3.4.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/xmlgraphics-commons-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/ghost4j-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/logback-classic-1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/logback-core-1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javacv.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../freetts/freetts-1.2/lib/cmu_time_awb.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javacpp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/opencv.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javacv-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/opencv-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/opencv-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/commons-beanutils-1.9.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/opencv-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/itext-2.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../freetts/freetts-1.2/lib/freetts-jsapi10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/jcl-over-slf4j-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/lept4j-1.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/pdfbox-2.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../freetts/freetts-1.2/lib/en_us.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Tess4J/lib/pdfbox-tools-2.0.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
